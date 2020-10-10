@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Full Stack Web development | App development
 - 💬 Ask me about about anything
 - 📫 How to reach me: <lamnguyen24062000@gmail.com>
-- ⚡ Fun fact: I love movies.  Except horror movies   
+- ⚡ Fun fact: I love movies, play game and listen to music  
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongcodebmt&layout=compact)](https://github.com/dongcodebmt)
